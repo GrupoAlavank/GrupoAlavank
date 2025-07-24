@@ -1,6 +1,6 @@
 # Grupo Alavank
 
-O **Grupo Alavank** é uma empresa de consultoria estratégica e de gestão especializada no apoio a empresas de diversos setores. Nosso foco está em otimizar processos, melhorar resultados e proporcionar soluções personalizadas em áreas como **qualidade**, **planejamento estratégico**, **gestão financeira**, **recursos humanos** e **marketing**. Com uma abordagem inovadora e estratégica, ajudamos nossos clientes a se destacarem no mercado, atingindo seus objetivos e superando desafios.
+O **Grupo Alavank** é uma empresa de consultoria organizacional e de gestão especializada no apoio a empresas de diversos setores. Nosso foco está em otimizar processos, melhorar resultados e proporcionar soluções personalizadas em áreas como **qualidade**, **planejamento estratégico**, **gestão financeira**, **recursos humanos** e **marketing**. Com uma abordagem inovadora e estratégica, ajudamos nossos clientes a se destacarem no mercado, atingindo seus objetivos e superando desafios.
 
 ## Nossos Serviços
 
@@ -14,12 +14,11 @@ Oferecemos uma gama de serviços projetados para ajudar empresas a se estruturar
 
 ## Visão e Valores
 
-A **Alavank** busca ser um parceiro estratégico para empresas que desejam crescer de forma organizada, eficiente e inovadora. Nossos valores são:
+##Missão: Fornecer soluções empresariais ágeis e eficientes através de um ambiente cooperativo, capaz de estruturar um relacionamento com clientes e stakeholders de modo a alavancar negócios com qualidade.
 
-- **Compromisso com os resultados**: Nossa prioridade é garantir que nossos clientes alcancem seus objetivos.
-- **Inovação constante**: Buscamos soluções inovadoras para enfrentar os desafios do mercado.
-- **Excelência em tudo o que fazemos**: Entregamos soluções de alta qualidade em todas as áreas em que atuamos.
-- **Confiança e transparência**: Trabalhamos de forma transparente e confiável, mantendo uma relação de longo prazo com nossos clientes.
+##Visão: Tornar-se referência no mercado regional nas frentes de Consultoria, Marketing, Treinamentos e Gestão de Pessoas. Expandir a empresa para conquistar cada vez mais contratos globais.
+
+##Valores: cooperatividade / relacionamento / compromisso / pluralidade / resultado / agilidade
 
 ## Como Trabalhamos
 
@@ -40,10 +39,9 @@ Nosso processo de trabalho envolve uma análise detalhada das necessidades e des
 
 ## Entre em Contato
 
-- **Website**: [www.alavank.com.br](http://www.alavank.com.br)
-- **E-mail**: contato@alavank.com.br
-- **Telefone**: +55 (32) 3215-2676
-- **WhatsApp**: +55 (32) 3215-2676
+- **Website**: [www.alavank.com](http://www.alavank.com)
+- **E-mail**: Pedro@alavank.me
+- **WhatsApp**: +55 (32) 98830-3747
 
 Siga-nos nas redes sociais para ficar por dentro das últimas novidades e soluções que podemos oferecer para o seu negócio.
 
