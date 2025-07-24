@@ -40,8 +40,8 @@ Nosso processo de trabalho envolve uma análise detalhada das necessidades e des
 ## Entre em Contato
 
 - **Website**: [www.alavank.com](http://www.alavank.com)
-- **E-mail**: Pedro@alavank.me
-- **WhatsApp**: +55 (32) 98830-3747
+- **E-mail**: Samara@alavank.me
+- **WhatsApp**: +55 (32) 98455-1739
 
 Siga-nos nas redes sociais para ficar por dentro das últimas novidades e soluções que podemos oferecer para o seu negócio.
 
