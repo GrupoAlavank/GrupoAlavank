@@ -14,11 +14,11 @@ Oferecemos uma gama de serviços projetados para ajudar empresas a se estruturar
 
 ## Visão e Valores
 
-##Missão: Fornecer soluções empresariais ágeis e eficientes através de um ambiente cooperativo, capaz de estruturar um relacionamento com clientes e stakeholders de modo a alavancar negócios com qualidade.
+**Missão**: Fornecer soluções empresariais ágeis e eficientes através de um ambiente cooperativo, capaz de estruturar um relacionamento com clientes e stakeholders de modo a alavancar negócios com qualidade.
 
-##Visão: Tornar-se referência no mercado regional nas frentes de Consultoria, Marketing, Treinamentos e Gestão de Pessoas. Expandir a empresa para conquistar cada vez mais contratos globais.
+**Visão**: Tornar-se referência no mercado regional nas frentes de Consultoria, Marketing, Treinamentos e Gestão de Pessoas. Expandir a empresa para conquistar cada vez mais contratos globais.
 
-##Valores: cooperatividade / relacionamento / compromisso / pluralidade / resultado / agilidade
+**Valores**: cooperatividade / relacionamento / compromisso / pluralidade / resultado / agilidade
 
 ## Como Trabalhamos
 
